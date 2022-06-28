@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>測試用第二篇文章</title>
+      <link>https://tobeetobee.github.io/blog/test2/</link>
+      <pubDate>Tue, 28 Jun 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://tobeetobee.github.io/blog/test2/</guid>
+      <description>第二篇文章</description>
+    </item>
+    
+    <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://tobeetobee.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
